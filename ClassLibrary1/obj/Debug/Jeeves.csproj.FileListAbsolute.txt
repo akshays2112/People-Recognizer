@@ -1,0 +1,2 @@
+D:\New 2020 Backup\VSProjects\People Recognizer\ClassLibrary1\obj\Debug\Jeeves.csprojAssemblyReference.cache
+D:\New 2020 Backup\VSProjects\People Recognizer\ClassLibrary1\obj\Debug\Jeeves.csproj.CoreCompileInputs.cache

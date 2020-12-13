@@ -1,0 +1,5 @@
+c:\users\akshays\documents\visual studio 2012\Projects\People Recognizer\People Recognizer\bin\Debug\People Recognizer.exe.config
+D:\New 2020 Backup\VSProjects\People Recognizer\People Recognizer\obj\Debug\People Recognizer.csprojAssemblyReference.cache
+D:\New 2020 Backup\VSProjects\People Recognizer\People Recognizer\obj\Debug\People_Recognizer.Properties.Resources.resources
+D:\New 2020 Backup\VSProjects\People Recognizer\People Recognizer\obj\Debug\People Recognizer.csproj.GenerateResource.cache
+D:\New 2020 Backup\VSProjects\People Recognizer\People Recognizer\obj\Debug\People Recognizer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People Recognizer", "People Recognizer\People Recognizer.csproj", "{FD21200F-83B7-47A0-9896-F7B07CD28016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeeves", "ClassLibrary1\Jeeves.csproj", "{ED95E2D5-2FAF-4850-9F5B-E4E70579AF6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD21200F-83B7-47A0-9896-F7B07CD28016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD21200F-83B7-47A0-9896-F7B07CD28016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD21200F-83B7-47A0-9896-F7B07CD28016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD21200F-83B7-47A0-9896-F7B07CD28016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED95E2D5-2FAF-4850-9F5B-E4E70579AF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED95E2D5-2FAF-4850-9F5B-E4E70579AF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED95E2D5-2FAF-4850-9F5B-E4E70579AF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED95E2D5-2FAF-4850-9F5B-E4E70579AF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
